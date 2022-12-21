@@ -221,3 +221,4 @@ toot=Frame(root,bg="snow",width=0,height=0)
 toot.place(x=435,y=100)
 Label(root,text=".......You can only see answers of max 3 Questions.......",font="calibri 20").place(x=400,y=450)
 root.mainloop()
+
